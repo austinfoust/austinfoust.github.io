@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+background: url("http://altitudemarketing.com/wp-content/uploads/2012/01/new_bg.jpg");
+background-size: cover;
+color: #fff;
+font-family: Helvetica;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 30px;
+}
+h1 {
+  font-size: 40px;
+}
+#name {
+	color: yellow;
+}
+ul.a {
+    list-style-type: circle;
+}
